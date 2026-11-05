@@ -1,4 +1,8 @@
  <div align="center">
+  <img src="assets/dalia_banner.png" width="100%" alt="Dalia Mansour - Flutter Developer" />
+</div>
+
+<br/>
 
 # 👋 Hi, I'm Dalia Mansour
 
